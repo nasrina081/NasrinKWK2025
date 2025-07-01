@@ -6,4 +6,4 @@
 
 # 3. I love art!! Painting, crochet, fashion design, drawing, sewing. I do it all. I love to express myself and I love using my hands to create something new. Here's some of my art:  https://www.instagram.com/nasrinspalette/
 
-# 4. I have been doing ballet formally and informally since I was 5.
+# 4. I have been doing ballet formally and informally since I was 5. 🩰
