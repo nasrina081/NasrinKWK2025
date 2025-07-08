@@ -58,6 +58,22 @@ nav ul li a:hover {
   color: #c82f63;
 }
 
+#about-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+  margin-top: 20px;
+}
+
+.profile-pic {
+  width: 200px;
+  height: auto;
+  border: 4px solid #ffffff;
+  border-radius: 12px;
+  object-fit: cover;
+}
+
 #about {
   background-color: #7a1b38;
   color: #ffffff;
