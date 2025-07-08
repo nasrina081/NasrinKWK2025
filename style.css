@@ -4,5 +4,64 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
 }
 
+header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+header h1 {
+  color: #ffffff;
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+}
+
+header h2 {
+  color: #ffffff;
+  font-size: 1.5rem;
+  font-weight: 300;
+}
+
+nav {
+  background-color: #7a1b38;
+  padding: 10px 20px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 30px;
+  border: 2px solid #ffffff;
+  border-radius: 12px;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  padding: 0;
+  margin: 0;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 1.1rem;
+  transition: color 0.2s ease;
+}
+
+nav ul li a:hover {
+  color: #c82f63;
+}
+
+#about {
+  text-align: center;
+  max-width: 800px;
+  margin-top: 20px;
+  padding: 20px;
+}
