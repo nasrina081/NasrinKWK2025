@@ -22,7 +22,19 @@
     
     </header>
 
-    <section id="about">
+    <section id="kwk-journey">
+      <h2>My KWK Journey</h2>
+    
+      <p>From a childhood fascination with snacks at Technovation Girls Club to building a full-fledged app with Kode With Klossy, my journey into coding has been an incredible adventure. What started with creating a "choose your own story" app for public safety measures in sixth grade quickly blossomed into a deep passion for STEM.</p>
+    
+      <p>High school brought opportunities like Columbia University's Girls in STEM Initiative, where I delved into Python and explored the versatility of STEM careers. These experiences solidified my desire to pursue a STEM-related degree. Even during the pandemic, I found growth—Kode With Klossy introduced me to Swift and Xcode, where I built <em>Growing Up Girl</em>, an app designed to support girls around the world. That moment cemented the fact that coding wasn’t just a hobby — it was a lifelong calling.</p>
+    
+      <p>My passion for computer science has only grown in college. I’m now a rising senior at George Mason University, where I’ve focused on using AI for cancer diagnosis, inspired by my grandmother’s passing. I’m also deeply committed to empowering other Black students in tech through a future nonprofit initiative.</p>
+    
+      <p>Outside the classroom, I’ve held many roles — from being a teaching assistant and Kode With Klossy facilitator, to leading the Minorities in Computing organization and serving as president of NSBE. Along the way, I’ve interned in UX/UI and software engineering at Vytal Studios, explored C++, React, Redux, and Unreal Engine through a Microsoft Xbox internship, and spoken at conferences about inclusive innovation.</p>
+    
+      <p>This summer, I’m proud to return to Microsoft for my third internship — this time as a <strong>Technical Product Manager intern</strong> on the Windows team. I’m excited to continue growing, building, and contributing to the ever-evolving world of technology.</p>
     </section>
+
   </body>
 </html>
