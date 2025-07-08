@@ -121,3 +121,20 @@ nav ul li a:hover {
   border: 2px solid #ffffff;
 }
 
+#kwk-journey {
+  background-color: #7a1b38;
+  color: #ffffff;
+  border: 2px solid #ffffff;
+  border-radius: 12px;
+  padding: 30px;
+  max-width: 900px;
+  margin: 40px auto;
+  text-align: left;
+  line-height: 1.6;
+}
+
+#kwk-journey h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 2rem;
+}
