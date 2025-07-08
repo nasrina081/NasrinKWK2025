@@ -87,3 +87,37 @@ nav ul li a:hover {
   text-align: center;
   flex-grow: 1;
 }
+
+.passion-block {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+  margin: 50px auto;
+  max-width: 900px;
+  padding: 20px;
+  flex-wrap: wrap;
+}
+
+.passion-block.reverse {
+  flex-direction: row-reverse;
+}
+
+.passion-img {
+  width: 250px;
+  height: auto;
+  border-radius: 12px;
+  border: 3px solid #ffffff;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+.passion-text {
+  max-width: 500px;
+  color: #ffffff;
+  background-color: #7a1b38;
+  padding: 20px;
+  border-radius: 12px;
+  border: 2px solid #ffffff;
+}
+
