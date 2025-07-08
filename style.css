@@ -138,3 +138,22 @@ nav ul li a:hover {
   margin-bottom: 20px;
   font-size: 2rem;
 }
+
+#fun-facts {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+.fact-box {
+  background-color: #7a1b38;
+  color: #ffffff;
+  border: 2px solid #ffffff;
+  border-radius: 12px;
+  padding: 20px;
+  text-align: center;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
